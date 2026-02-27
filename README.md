@@ -22,7 +22,7 @@ Watt Toolkit 自建加速器配置服务器
 部署完成后，配置文件将可通过以下地址访问：
 
 ```
-https://quickerstudio.github.io/AcceleratorServer/accelerate.json
+https://quickerstudio.github.io/AcceleratorServer/config/accelerate.json
 ```
 
 ### 3. 修改客户端

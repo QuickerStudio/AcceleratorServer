@@ -59,7 +59,7 @@ AcceleratorServer/
 
 部署后可通过以下地址访问：
 
-- **配置文件**: `https://quickerstudio.github.io/AcceleratorServer/accelerate.json`
+- **配置文件**: `https://quickerstudio.github.io/AcceleratorServer/config/accelerate.json`
 - **图标文件**: `https://quickerstudio.github.io/AcceleratorServer/icons/[图标名].png`
 
 ## 工作流程
