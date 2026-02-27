@@ -1,0 +1,254 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="gbk" /> 
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="robots" content="all">
+<meta name="author" content="Tencent-CP" />
+<meta name="Copyright" content="Tencent" />
+<meta name="Description" content="罗布乐思官方网站-腾讯游戏" />
+<meta name="Keywords" content="罗布乐思官方网站-腾讯游戏" />
+<title>罗布乐思官方网站-腾讯游戏</title>
+<!-- 页面设计：dq | 页面制作：dq | 创建：2021-06-22 -->
+<link rel="stylesheet" type="text/css" href="//roblox.qq.com/web202106/css/common.css?202107051730" />
+<link rel="stylesheet" type="text/css" href="//roblox.qq.com/web202106/css/index.css?202107121600" />
+<link rel="icon" href="//game.gtimg.cn/images/roblox/web202106/favicon.ico">
+<script type="text/javascript">
+    (function() {
+        if(/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)){var a=document.referrer,b={"baidu.com":"seo_baidu","sogou.com":"seo_sogou","sm.cn":"seo_sm","so.com":"seo_360","bing.com":"seo_bing","google.com":"seo_google"},c;for(c in b){if(-1!=a.indexOf(c)){a=b[c];if(window.sessionStorage){sessionStorage.setItem("channel",a)}else{var d=d||0,b="";0!=d&&(b=new Date,b.setTime(b.getTime()+1000*d),b="; expires="+b.toGMTString());document.cookie="channel="+escape(a)+b+"; path=/"}break}}window.location.href="/m/index.html"+location.search};
+    })();
+</script>
+</head>
+
+<body class="mainpage">
+<!--[if lt IE 8]><p class="browser-tips">您的浏览器版本过低，请升级浏览器获得更好的体验<p><![endif]-->
+
+
+
+<div class="nav-bar">
+    <div class="logo"><a href="//roblox.qq.com/"  target="_blank" onclick="PTTSendClick('btn','logo','logo');"><img src="//game.gtimg.cn/images/roblox/web202106/logo.png" alt="logo"></a></div>
+    <div class="nav-links">
+        <div class="nav-link"><a href="/web202106/index.shtml" class="active" onclick="PTTSendClick('btn','index','首页');">首页</a></div>
+        <div class="nav-link"><a href="//robloxdev.cn/studio/" class="" target="_blank" onclick="PTTSendClick('btn','studio','开发者');">开发者</a></div>
+        <div class="nav-link"><a href="/web202106/game.shtml" class="" target="_blank" onclick="PTTSendClick('btn','game','玩家');">玩家</a></div>
+        <div class="nav-link"><a href="//edu.robloxdev.cn/" class="" target="_blank" onclick="PTTSendClick('btn','edu','教育');">教育</a></div>
+        <div class="nav-link-right">
+            <!-- <div class="login">
+                <div id="unlogin" class="login" style="display: block;">
+                    你好，请<a id="btn_qqlogin" href="javascript:void(0)" title="登录">[登录]</a>
+                </div>
+                <div id="logined" class="login" style="display: none;  ">
+                    欢迎您，<span id="login_qq_span"></span>
+                    <a id="btn_logout" href="javascript:void(0)" title="注销">[注销]</a>
+                </div>
+            </div> -->
+        </div>
+    </div>
+</div>
+
+
+<!--header start-->
+<div class="header">
+	<div class="banner-img"></div>
+    <div class="shadow"></div>
+    <div class="banner-content">
+        <img src="//game.gtimg.cn/images/roblox/web202106/icon1.png" alt="" class="logo-img">
+        <h3 class="banner-title">一起探索无限世界</h3>
+        <p class="banner-desc">罗布乐思是多人在线3D创意社区，通过提供强大的编辑工具和素材，让用户能够尽情创作内容，并在虚拟社区中与伙伴一同体验交流、共同成长。</p>
+    </div>
+</div>
+<!--header end-->
+<!-- con1 -->
+<div class="cont1">
+    <div class="content pr">
+        <a href="javascript:showDia('pop2');" class="shiling db" onclick="PTTSendClick('btn','shiling','适龄提示');">适龄提示</a>
+        <h3 class="c1-tit1">开启罗布乐思之旅</h3>
+        <ul class="a-list flex2">
+            <li>
+                <div class="a-logo">
+                    <img src="//game.gtimg.cn/images/roblox/web202106/icon2.png" alt="">
+                </div>
+                <h3 class="a-tit">立即体验</h3>
+                <p class="a-txt">在罗布乐思，你可以与小伙伴们随时随地体验探索我们的虚拟世界，实现你对现实世界的畅想。</p>
+                <a href="//roblox.qq.com/" class="btn-more" onclick="PTTSendClick('btn','btn-more1','了解更多');" target="_blank">了解更多</a>
+                <!-- id="rsvt" -->
+            </li>
+            <li>
+                <div class="a-logo">
+                    <img src="//game.gtimg.cn/images/roblox/web202106/icon3.png" alt="">
+                </div>
+                <h3 class="a-tit">开始创作</h3>
+                <p class="a-txt">使用我们免费的沉浸式创作引擎，创作出你想象得到的 一切！你也可以在这里和全球优秀的创作者交流。</p>
+                <a href="//robloxdev.cn/studio/" class="btn-more" onclick="PTTSendClick('btn','btn-more2','了解更多');" target="_blank">了解更多</a>
+                <a href="javascript:;" class="btn-down" id="studio-download" target="_blank" onclick="PTTSendClick('btn','btn-down2','下载 Studio');">下载 Studio</a>
+            </li>
+        </ul>
+    </div>
+</div>
+<!-- con2 -->
+<div class="cont2">
+    <div class="content">
+        <h3 class="c2-tit1">罗布乐思是什么</h3>
+        <ul class="b-list flex2">
+            <li>
+                <div class="a-icon"><img src="//game.gtimg.cn/images/roblox/web202106/b-icon1.png" alt=""></div>
+                <h3 class="b-tit">3D 沉浸式体验</h3>
+                <p class="b-txt">无论是探索主题乐园，还是感受校园 生活，来这里就对了。</p>
+            </li>
+            <li>
+                <div class="a-icon"><img src="//game.gtimg.cn/images/roblox/web202106/b-icon2.png" alt=""></div>
+                <h3 class="b-tit">无限想象力</h3>
+                <p class="b-txt">使用罗布乐思 Studio 实现创意，自由 创作属于自己的个性作品。</p>
+            </li>
+            <li>
+                <div class="a-icon"><img src="//game.gtimg.cn/images/roblox/web202106/b-icon3.png" alt=""></div>
+                <h3 class="b-tit">开发者社区</h3>
+                <p class="b-txt">创作者可以实现创作需求，并通过优 秀的作品成为社区明星。</p>
+            </li>
+        </ul>
+    </div>
+</div>
+<!-- con3 -->
+<div class="cont3">
+    <ul id="index-news">
+        
+    </ul>
+</div>
+<div class="pop pop1" id="pop1">
+    <a class="pop-close db" href="javascript:showDialog.hide();"></a>
+   <div class="p-boxs c">
+        <div class="pb-left">
+            <img src="//game.gtimg.cn/images/roblox/web202106/down-ewm.jpg" alt="下载二维码">       
+            <p>扫一扫，立刻下载游戏！</p>     
+        </div>
+        <div class="pb-righ">
+            <a href="//apps.apple.com/cn/app/id1439306114" target="_blank" class="btn-ios-down db" onclick="PTTSendClick('btn','down1','App Store下载');">App Store下载</a>
+            <a href="https://roblox.qq.com/zlkdatasys/mct/d/play.shtml" target="_blank" class="btn-and-down db" onclick="PTTSendClick('btn','down2','Android下载');">Android下载</a>
+        </div>
+   </div>
+</div>
+<div class="pop pop1" id="pop2">
+    <a class="pop-close db" href="javascript:showDialog.hide();"></a>
+    <div class="p-cons">
+        <h3 class="age-tit">适龄提示：</h3>
+        <ul class="age-list c">
+            <li><strong>1）</strong><p>本游戏是一款多人在线休闲沙盒类游戏，适用于年满12周岁及以上的用户，建议未成年人在家长监护下使用游戏产品。</p></li>
+            <li><strong>2）</strong><p>本游戏无背景、无世界观、无剧情，由众多玩家自制小游戏组成，涵盖射击、模拟建造、竞速跑酷及益智解谜等，主要画面为3D卡通像素风格，形象设计可爱，场景明亮，配乐丰富，每个小游戏中都含有极具特色的配乐及音效。游戏内部分玩家自制小游戏含有竞技及对抗内容，但对抗内容以非写实的形式出现，不会与现实生活相混淆。游戏中有基于文字的陌生人社交系统，社交系统的管理遵循相关法律法规。</p></li>
+            <li><strong>3）</strong><p>根据国家相关要求，游戏中有用户实名认证系统，未通过实名认证的用户不可进入游戏；认证为未成年人的用户除周五、周六、周日及法定节假日每日20时至21时外其他时间均不可进入游戏。<br>游戏中部分玩法和道具需要付费。根据腾讯健康系统管理规定，认证为未成年人的用户将接受以下管理：<br>未满12周岁的用户不能付费；12周岁以上未满16周岁的未成年人用户，单次充值金额不得超过50元人民币，每月充值金额累计不得超过200元人民币；<br>16周岁以上的未成年人用户，单次充值金额不得超过100元人民币，每月充值金额累计不得超过400元人民币。</p></li>
+            <li><strong>4）</strong><p>本游戏在学习与探索一栏中，涵盖了语文、数学等科目的基础知识训练，成为了知识扩散的载体，有效的帮助玩家寓教于乐。本游戏以自由创造为主题，部分玩法中玩家可以打造属于自己的游戏世界，此过程可建立自信，有助于玩家开阔眼界、提升基础审美能力。  </p></li>
+        </ul>
+    </div>    
+</div>
+
+
+<!-- footer-link -->
+<!-- footer-link -->
+<div class="foot-link">
+    <div class="content c">
+        <ul class="link-list c">
+            <li>
+                <h3>开发者</h3>
+                <a target="_blank" href="//robloxdev.cn/events/" onclick="PTTSendClick('btn','link1','开发者活动');">开发者活动</a>
+                <a target="_blank" href="//space.bilibili.com/402416759?from=search&seid=17513191545287343929" onclick="PTTSendClick('btn','link2','开发者中心');">开发者中心</a>
+                <a target="_blank" href="//forum.robloxdev.cn" onclick="PTTSendClick('btn','link3','中国开发者论坛');">中国开发者论坛</a>
+                <a target="_blank" href="//corp.robloxdev.cn" onclick="PTTSendClick('btn','link4','关于我们');">关于我们</a>
+                <a target="_blank" href="//corp.robloxdev.cn/career" onclick="PTTSendClick('btn','link5','加入我们');">加入我们</a>
+            </li>
+            <li>
+                <h3>玩家</h3>
+                <a target="_blank" href="/web202106/news.shtml" onclick="PTTSendClick('btn','link6','新闻公告');">新闻公告</a>
+                <a target="_blank" href="/web202106/news.shtml" onclick="PTTSendClick('btn','link7','最新活动');">最新活动</a>
+                <a target="_blank" href="/web202106/video.shtml" onclick="PTTSendClick('btn','link8','精彩视频');">精彩视频</a>
+                <a href="javascript:alert('升级维护中');" onclick="PTTSendClick('btn','link9','互动社区');">互动社区</a>
+            </li>
+            <li>
+                <h3>教育</h3>
+                <a target="_blank" href="//edu.robloxdev.cn/news.html" onclick="PTTSendClick('btn','link10','新闻中心');">新闻中心</a>
+                <a target="_blank" href="//edu.robloxdev.cn/activity.html" onclick="PTTSendClick('btn','link11','教育活动');">教育活动</a>
+                <a target="_blank" href="//edu.robloxdev.cn/course.html" onclick="PTTSendClick('btn','link12','精选课程');">精选课程</a>
+                <a target="_blank" href="//edu.robloxdev.cn/certificate.html" onclick="PTTSendClick('btn','link13','培训认证');">培训认证</a>
+                <a target="_blank" href="//edu.robloxdev.cn/cooperation.html" onclick="PTTSendClick('btn','link14','校园合作');">校园合作</a>
+                <a target="_blank" href="//edu.robloxdev.cn/lesihui.html" onclick="PTTSendClick('btn','link15','乐思会');">乐思会</a>
+            </li>
+            <li>
+                <h3>帮助</h3>
+                <a target="_blank" href="//robloxdev.cn/user-help.html" onclick="PTTSendClick('btn','link16','帮助与支持');">帮助与支持</a>
+                <a target="_blank" href="//game.qq.com/contract.shtml" onclick="PTTSendClick('btn','link17','用户服务与协议');">用户服务与协议</a>
+            </li>
+        </ul>
+        <div class="tact-icon flex2">
+            <a href="javascript:;" class="btn-qq"><img src="//game.gtimg.cn/images/roblox/web202106/ewm-qq.jpg" alt=""><p>扫码加入官方QQ群</p></a>
+            <a href="javascript:;" class="btn-wx"><img src="//game.gtimg.cn/images/roblox/web202106/ewm-wx.jpg" alt=""><p>扫码加入官方微信群</p></a>
+            <a href="//weibo.com/u/7330013535" class="btn-wb" target="_blank" onclick="PTTSendClick('btn','wb','微博');"></a>
+            <a href="//v.kuaishou.com/drka2m" class="btn-ks" target="_blank" onclick="PTTSendClick('btn','ks','快手');"></a>
+            <!-- <a href="//v.douyin.com/eakjEmY/" class="btn-dy" target="_blank" onclick="PTTSendClick('btn','dy','抖音');"></a> -->
+            <a href="//www.biligame.com/detail/?id=106941" class="btn-bl" target="_blank" onclick="PTTSendClick('btn','bl','哔哩哔哩');"></a>
+        </div>
+    </div>
+</div>
+<div class="custom-footer">
+    <div id="gfooter" ams="38417/38461/m21966" age="7" dark="1" ieg-logo="1">
+        <a target="_blank" href="//roblox.qq.com/index.html" title="logo1" class="foot_left logo1">logo1</a>
+        <div class="copyright_txt">
+            <span class="te" >著作权人：Roblox Corporation</span>
+            <span class="te">出版单位：深圳市腾讯计算机系统有限公司</span>
+            <span class="te">运营单位：深圳市腾讯计算机系统有限公司</span>
+        </div>
+    </div>
+    <script src="//game.gtimg.cn/images/js/2018foot/foot.js"></script>
+</div>
+
+<script src="//ossweb-img.qq.com/images/js/milo_bundle/milo.js"></script>
+<script src="//ossweb-img.qq.com/images/js/jquery/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="//ossweb-img.qq.com/images/ams/atm/reporting.js?action=385193"></script>
+<script src="//ossweb-img.qq.com/images/js/PTT/ping_tcss_tgideas_https_min.js"></script>
+<script src="//game.gtimg.cn/images/js/fillnewsgicp/v1.4.js" charset="UTF-8"></script>
+<script src="//ossweb-img.qq.com/images/js/comm/showDialog.min.js"></script> 
+<script src="//roblox.qq.com/web202106/js/common.js?202107121600" charset="UTF-8"></script>
+<script src="//roblox.qq.com/web202106/js/index.js?202107051730" charset="UTF-8"></script>
+<script src="//roblox.qq.com/web202106/js/rsvt.js"></script>
+<script type="text/javascript" src="//ossweb-img.qq.com/images/js/x8/user_report.js" iModuleId="11028" iActivityId="385193" iFlowId="773596"></script>
+<script type="text/javascript">
+$('.btn-down').click(function(){
+    var agent = navigator.userAgent.toLowerCase();
+    var isMac = /macintosh|mac os x/i.test(navigator.userAgent);
+    if (agent.indexOf("win32") >= 0 || agent.indexOf("wow32") >= 0) {
+        window.location.href = 'https://setup.c.robloxdev.cn/cjv/RobloxStudioInstallerCJV.exe';
+        return false;
+    }
+    if (agent.indexOf("win64") >= 0 || agent.indexOf("wow64") >= 0) {
+         window.location.href = 'https://setup.c.robloxdev.cn/cjv/RobloxStudioInstallerCJV.exe';
+        return false;
+    }
+    if(isMac){
+        window.location.href = 'https://setup.c.robloxdev.cn/mac/cjv/RobloxStudioCJV.dmg';
+        return false;
+    }
+})
+    //此段代码不能放到外链JS中，
+    var setSite = { //设置网站属性
+        siteType: "os", //必填项:"os"代表是官网，如果不是，则填写actName例如a20160701xxx
+        pageType: "index-pc", //必填项:本页面的定位；按照页面含义填写例如main||list||detail||download||share||page1||pageN
+        pageName: "首页-pc", //必填项:页面中文名
+        project: "base", //选填项:如果是官网模块则是必填;按照模块内容，填写固定的对应值;原生官网base;微社区ingame;同人站doujin;赛事match;故事站story;文化站history;粉丝站fans;爆料站coming;论坛bbs;默认other;
+        osact: "pc",//选填项:是否是官网专题(在官网运营的专题)boolean；默认是0；可以在链接上加入参数osact=1来灵活设置
+        ingame: 0, //选填项:是否投放在游戏APP内boolean；默认是0；可以在链接上加入参数ingame=1来灵活设置
+        stayTime: 0 //选填项:是否需要统计停留时长boolean；默认是0
+    };
+    if (typeof (pgvMain) == 'function') pgvMain();//千万不能忘记！
+    function isMac() {
+        return /macintosh|mac os x/i.test(navigator.userAgent);
+    }
+    function replaceStudioDownload() {
+        //var macUrl = "https://setup.c.robloxdev.cn/mac/RobloxStudioCJV.dmg";
+        //document.getElementById('studio-download').href = macUrl;
+    }
+    if (isMac()) {
+        replaceStudioDownload();
+    }
+</script>
+</body>
+</html>
+

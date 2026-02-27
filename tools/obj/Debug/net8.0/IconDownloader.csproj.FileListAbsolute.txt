@@ -1,0 +1,15 @@
+C:\Users\Quick\Desktop\AcceleratorServer\tools\bin\Debug\net8.0\IconDownloader.exe
+C:\Users\Quick\Desktop\AcceleratorServer\tools\bin\Debug\net8.0\IconDownloader.deps.json
+C:\Users\Quick\Desktop\AcceleratorServer\tools\bin\Debug\net8.0\IconDownloader.runtimeconfig.json
+C:\Users\Quick\Desktop\AcceleratorServer\tools\bin\Debug\net8.0\IconDownloader.dll
+C:\Users\Quick\Desktop\AcceleratorServer\tools\bin\Debug\net8.0\IconDownloader.pdb
+C:\Users\Quick\Desktop\AcceleratorServer\tools\obj\Debug\net8.0\IconDownloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quick\Desktop\AcceleratorServer\tools\obj\Debug\net8.0\IconDownloader.AssemblyInfoInputs.cache
+C:\Users\Quick\Desktop\AcceleratorServer\tools\obj\Debug\net8.0\IconDownloader.AssemblyInfo.cs
+C:\Users\Quick\Desktop\AcceleratorServer\tools\obj\Debug\net8.0\IconDownloader.csproj.CoreCompileInputs.cache
+C:\Users\Quick\Desktop\AcceleratorServer\tools\obj\Debug\net8.0\IconDownloader.sourcelink.json
+C:\Users\Quick\Desktop\AcceleratorServer\tools\obj\Debug\net8.0\IconDownloader.dll
+C:\Users\Quick\Desktop\AcceleratorServer\tools\obj\Debug\net8.0\refint\IconDownloader.dll
+C:\Users\Quick\Desktop\AcceleratorServer\tools\obj\Debug\net8.0\IconDownloader.pdb
+C:\Users\Quick\Desktop\AcceleratorServer\tools\obj\Debug\net8.0\IconDownloader.genruntimeconfig.cache
+C:\Users\Quick\Desktop\AcceleratorServer\tools\obj\Debug\net8.0\ref\IconDownloader.dll
