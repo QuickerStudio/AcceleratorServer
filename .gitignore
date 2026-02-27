@@ -14,3 +14,10 @@ Thumbs.db
 # Backup files
 *.bak
 *.tmp
+
+# .NET build artifacts
+**/bin/
+**/obj/
+*.dll
+*.exe
+*.pdb
